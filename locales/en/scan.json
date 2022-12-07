@@ -1,0 +1,7 @@
+{
+    "enterSiteName": "Please enter site or script name, 60 max.",
+    "maxLengthError": "Maximum 60 characters",
+    "removeCharacters": "Remove the following characters: {{characterList}}",
+    "websiteOrScriptName": "Website or script name",
+    "scanForFree": "Scan For Free!"
+}

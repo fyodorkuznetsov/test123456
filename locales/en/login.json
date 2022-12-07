@@ -1,0 +1,10 @@
+{
+    "signIn": "Sign In",
+    "enterLogin": "Enter login",
+    "enterPassword": "Enter a password",
+    "password": "Password",
+    "loginPlaceholder": "Email address or username",
+    "rememberMe": "Remember me",
+    "newToPhpSecure": "New to PhpSecure?",
+    "joinNow": "Join now"
+}

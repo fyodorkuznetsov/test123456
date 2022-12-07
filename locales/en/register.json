@@ -1,0 +1,21 @@
+{
+    "freeScanAlert": "You have reached a limit of free scanning. Please join or sign in to unlock unlimited scanning.",
+    "joinPhpSecure": "Join PhpSecure",
+    "emailIsRequired": "Enter an email address",
+    "emailNotValid": "Enter a valid email address",
+    "email": "E-mail",
+    "continue": "Continue",
+    "haveAccount": "Already have an account?",
+    "signIn": "Sign In",
+    "join": "Join",
+    "chooseUsername": "Choose a username",
+    "enterUsername": "Enter a username",
+    "removeCharacters": "Remove the following characters: {{characterList}}",
+    "minUsernameLengthError": "That’s too short. A great username must include at least 6 characters.",
+    "choosePassword": "Choose a Password",
+    "enterPassword": "Enter a password",
+    "passwordHelper": "8 characters or longer. Combine upper and lowercase letters and numbers",
+    "passwordNotValid": "Password must be min. 8 characters. Combine numbers, upper and lowercase letters.",
+    "notSecurePassword": "Your password is not secure enough. Please choose a different password.",
+    "confirmTermsText": "By joining, you agree to PhpSecure’s {{openTag}}Terms&nbsp;of&nbsp;Service{{closeTag}}, as well as to receive occasional emails from us."
+}
